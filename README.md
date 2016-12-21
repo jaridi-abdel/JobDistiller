@@ -1,2 +1,2 @@
 # JobDistiller
-A library for extracting structured data from HTML pages
+A library for extracting structured data from HTML pages using Machine Learning
